@@ -1,0 +1,172 @@
+[
+    {
+      "id": 1,
+      "title": "Hulk",
+      "price": 6.00,
+      "category":"Hamburguesas",
+      "description":"Riquisima, grande y deliciosa hamburguesa rellena de queso, tocino, champinión y doble de carne.",
+      "sale":false,
+      "img":"hulk.jpg",
+      "img1":"hamburguesa.png",
+      "valoration":3,
+      "inventory":"20"
+      
+    },
+    {
+      "id": 2,
+      "title": "Fenix",
+      "price": 3.50,
+      "category":"Hamburguesas",
+      "description":"Riquisima, grande y deliciosa hamburguesa rellena de queso, tocino, champinión y carne.",
+      "sale":true,
+      "img":"fenix.jpg",
+      "img1":"hamburguesa.png",
+      "valoration":4,
+      "inventory":5
+      
+    },
+    {
+      "id": 3,
+      "title": "Dientes de Sable",
+      "price": 5.00,
+      "category":"Hamburguesas",
+      "description":"Riquisima, grande y deliciosa hamburguesa rellena de queso, tocino, champinión y carne.",
+      "sale":false,
+      "img":"dientes-de-sable.jpg",
+      "img1":"hamburguesa.png",
+      "valoration":3,
+      "inventory":10
+
+    },
+    {
+      "id": 4,
+      "title": "Antorcha",
+      "price": 3.50,
+      "category":"Hamburguesas",
+      "description":"Riquisima, grande y deliciosa hamburguesa rellena de queso, tocino, champinión y carne.",
+      "sale":false,
+      "img":"antorcha.jpg",
+      "img1":"hamburguesa.png",
+      "valoration":3,
+      "inventory":5
+      
+    },
+    {
+      "id": 5,
+      "title": "Capitan America",
+      "price": 4.50,
+      "category":"Hamburguesas",
+      "description":"Riquisima, grande y deliciosa hamburguesa rellena de queso, tocino, champinión y carne.",
+      "sale":false,
+      "img":"capitan-america.jpg",
+      "img1":"hamburguesa.png",
+      "valoration":3,
+      "inventory":5
+      
+    },
+    {
+      "id": 6,
+      "title": "Tormenta",
+      "price": 4.00,
+      "category":"Hamburguesas",
+      "description":"Riquisima, grande y deliciosa hamburguesa rellena de queso, tocino, champinión y carne.",
+      "sale":false,
+      "img":"tormenta.jpg",
+      "img1":"hamburguesa.png",
+      "valoration":3,
+      "inventory":8
+
+    },
+    {
+      "id": 7,
+      "title": "Electro",
+      "price": 5.50,
+      "category":"Hamburguesas",
+      "description":"Riquisima, grande y deliciosa hamburguesa rellena de queso, tocino, champinión y carne.", 
+      "sale":true,
+      "img":"electro.jpg",
+      "img1":"hamburguesa.png",
+      "valoration":4,
+      "inventory":8
+
+    },
+    {
+      "id": 8,
+      "title": "7up 355 Ml",
+      "price": 4.00,
+      "category":"Bebidas",
+      "description":"Disfrutalo de su sabor especial e intenso con fruta natrural y refresca tu vida.",
+      "sale":true,
+      "img":"7up.png",
+      "img1":"bebida.jpg",
+      "valoration":3,
+      "inventory":10
+      
+    },
+    {
+      "id": 9,
+      "title": "Coca Cola de 345 Ml",
+      "price": 5.00,
+      "category":"Bebidas",
+      "description":"Disfrutalo de su sabor especial e intenso con fruta natrural y refresca tu vida.",  
+      "sale":false,
+      "img":"cocacola.png",
+      "img1":"bebida.jpg",
+      "valoration":2,
+      "inventory":3
+      
+    },
+    {
+      "id": 10,
+      "title": "Fanta de 355 Ml",
+      "price": 4.50,
+      "category":"Bebidas",
+      "description":"Disfrutalo de su sabor especial e intenso con fruta natrural y refresca tu vida.",       
+      "sale":false,
+      "img":"fanta.png",
+      "img1":"bebida.jpg",
+      "valoration":3,
+      "inventory":0
+      
+    },
+    {
+      "id": 11,
+      "title": "Pepsi de 355 Ml",
+      "price": 5.50,
+      "category":"Bebidas",
+      "description":"Disfrutalo de su sabor especial e intenso con fruta natrural y refresca tu vida.",           
+      "sale":false,
+      "img":"pepsi.png",
+      "img1":"bebida.jpg",
+      "valoration":4,
+      "inventory":3
+
+    },
+    {
+      "id": 12,
+      "title": "Pepsi Max de 355 Ml",
+      "price": 5.50,
+      "category":"Bebidas",
+      "description":"Disfrutalo de su sabor especial e intenso con fruta natrural y refresca tu vida.",         
+      "sale":false,
+      "img":"max.png",
+      "img1":"bebida.jpg",
+      "valoration":4,
+      "inventory":3
+
+    },
+    {
+      "id": 13,
+      "title": "Sprite de 355 Ml",
+      "price": 5.00,
+      "category":"Bebidas",
+      "description":"Disfrutalo de su sabor especial e intenso con fruta natrural y refresca tu vida.",         
+      "sale":false,
+      "img":"sprite.png",
+      "img1":"bebida.jpg",
+      "valoration":4,
+      "inventory":3
+
+    }
+    
+  ]
