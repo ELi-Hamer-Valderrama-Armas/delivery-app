@@ -5,17 +5,12 @@ Aplicación para delivery de hamburguesas y bebidas, la cual fue desarrollada en
 ## Tabla de contenido
 
 - [Captura](#capura)
-- [Links](#links)
 - [Construcción](#construcción)
 - [Autor](#autor)
 
 ### Captura
 
 ![](./screenshot.png)
-
-### Link
-
-- URL del sitio en vivo: [Netlify](https://serene-colden-7dbe08.netlify.app/)
 
 ### Construcción
 
